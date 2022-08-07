@@ -114,6 +114,7 @@ main .navbar {
 .gridimg img {
   width: 300px;
   height: 50vh;
+  cursor: pointer;
 }
 .gridhd {
   display: grid;
